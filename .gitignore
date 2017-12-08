@@ -38,3 +38,6 @@ Thumbs.db
 
 # Node modules directory
 node_modules/
+
+# VS Code config
+.vscode
