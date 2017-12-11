@@ -41,3 +41,6 @@ node_modules/
 
 # VS Code config
 .vscode
+
+# Cache do Python
+__pycache__
